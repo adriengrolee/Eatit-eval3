@@ -1,0 +1,29 @@
+// Colors
+$titre: rgb(0, 0, 0);
+$background: #FFFFFF;
+$text: rgb(255, 255, 255);
+$primary: #dc4541;
+$secondary: #794719;
+$warning: #FFEFDB;
+$light: #F8F8F8;
+$dark: #4D4D4D;
+$link-color: $dark;
+$body-color: $dark;
+$enable-rounded: false;
+// Typos
+$font-size-base: 1rem;
+$font-size-sm : $font-size-base * .875;
+$h1-font-size : $font-size-base * 2.5;
+$h2-font-size : $font-size-base * 2;
+$h3-font-size : $font-size-base * 1;
+$font-family-sans-serif: 'Nunito sans';
+$font-family-base: $font-family-sans-serif;
+$border-width: 2px;
+$navbar-light-color: $primary;
+// $navbar-light-hover-color: $primary;  
+$navbar-light-toggler-border-color: transparent;
+// Layout
+$max-width: 1200px;
+$bp-medium: 768px;
+$bp-large: 992px;
+$marge: 15px;
